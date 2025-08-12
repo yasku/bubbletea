@@ -1,0 +1,8 @@
+streamlit
+streamlit-authenticator
+requests
+pandas
+plotly
+SQLAlchemy
+python-dotenv
+bcrypt

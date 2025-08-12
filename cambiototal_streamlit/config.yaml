@@ -1,0 +1,17 @@
+credentials:
+  usernames:
+    agustin_admin:
+      email: admin@cambiototal.com
+      name: Agustín (Admin)
+      password: '$2b$12$VY93N.vtf1/HP4gROmq3v.SedM0d0VZNkJ0dok73BJ8.a.UIUXIYG'
+    juan_operador:
+      email: operador@cambiototal.com
+      name: Juan (Operador)
+      password: '$2b$12$890vV33EiYjT.SirYE4Lx.X1ZYjYfKEaAuKXqrS9s3u86bYoSdkm2'
+cookie:
+  expiry_days: 30
+  key: unaclavesecretamuysegura
+  name: cambiototal_cookie
+preauthorized:
+  emails:
+  - admin@cambiototal.com
